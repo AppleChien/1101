@@ -1,0 +1,10 @@
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\bin\Debug\1091551_hw3.exe.config
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\bin\Debug\1091551_hw3.exe
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\bin\Debug\1091551_hw3.pdb
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\obj\Debug\1091551_hw3.csproj.AssemblyReference.cache
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\obj\Debug\_1091551_hw3.Form1.resources
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\obj\Debug\_1091551_hw3.Properties.Resources.resources
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\obj\Debug\1091551_hw3.csproj.GenerateResource.cache
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\obj\Debug\1091551_hw3.csproj.CoreCompileInputs.cache
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\obj\Debug\1091551_hw3.exe
+D:\school_hw\Big2.1\視窗\MyHW\HW3\1091551_hw3\1091551_hw3\obj\Debug\1091551_hw3.pdb
